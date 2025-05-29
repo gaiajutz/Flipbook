@@ -5,7 +5,7 @@
     margin: 0;
     padding: 2px;
     box-sizing: border-box;
-    font-family: "Lora"
+    font-family: "Lora";
 }
 
 body {
@@ -14,7 +14,7 @@ body {
     height: 100vh;
     width: 100vw;
 	overflow: hidden;
-	background-image: url("images/fundo.png")
+	background-image: url("images/fundo.png");
 }
 
 h1 {
@@ -45,7 +45,6 @@ p {
     border: none; 
     font-size: 60px;
     align-items: center;
-
 }
 
 .flipbook .hard small{
