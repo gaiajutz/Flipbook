@@ -1,5 +1,5 @@
-# Flipbook com textos e artes autorais (Maio/2025)
-- Mini projeto interativo para divulgação de textos
+# Flipbook: Gaia's Compendium (Maio/2025)
+- Mini projeto interativo para divulgação de textos e artes autorais
 - Tutorial por <a href="https://www.youtube.com/watch?v=HFnzWoGe0so">HankTheTank</a>
 - Acesse <a href="https://gaiapedia.neocities.org/compendium/">aqui</a>
 
